@@ -1,0 +1,13 @@
+{
+	"ImportPath": "github.com/ddollar/goimports",
+	"GoVersion": "go1.4.1",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/tools/imports",
+			"Rev": "d79e0375a07367cd4fc0cb384b7cf7f9c56ee858"
+		}
+	]
+}
